@@ -75,6 +75,6 @@
 | 임연주 | 최윤아 | 백지연 | 조유원 | 김신건 | 김보민 |
 |---|---|---|---|---|---|
 | PM | DE | FE | FE | BE | BE |
-| ![](https://avatars.githubusercontent.com/u/224591534?v=4)   |    | ![](https://avatars.githubusercontent.com/u/147830921?v=4)  | ![](https://avatars.githubusercontent.com/u/181433031?v=4)   |  ![](https://avatars.githubusercontent.com/u/47373998?v=4)      | ![](https://avatars.githubusercontent.com/u/157809900?v=4)|
+| <img width="130" height="130" src="https://avatars.githubusercontent.com/u/224591534?v=4">  |  <img width="130" height="130" src="">  | <img width="130" height="130" src="https://avatars.githubusercontent.com/u/147830921?v=4"> | <img width="130" height="130" src="https://avatars.githubusercontent.com/u/181433031?v=4">  | <img width="130" height="130" src="https://avatars.githubusercontent.com/u/47373998?v=4"> | <img width="130" height="130" src="https://avatars.githubusercontent.com/u/157809900?v=4"> |
 | [yecometon](https://github.com/yecometon) | | [jyeon03](https://github.com/jyeon03) | [xuuwon](https://github.com/xuuwon) | [shinkeonkim](https://github.com/shinkeonkim) | [bluebomin](https://github.com/bluebomin) |
 | 기획, 발표 자료 제작 | 디자인, 발표 자료 제작 | 프론트엔드 개발 | 프론트엔드 개발 | 백엔드 개발 | 백엔드 개발 |
