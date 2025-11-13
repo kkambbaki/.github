@@ -1,12 +1,32 @@
-## Hi there 👋
+#  SPOTAL!
 
-<!--
 
-**Here are some ideas to get you started:**
+### 2025 멋쟁이사자처럼 대학 13기 4호선톤 - '깜빡이'팀
+** 게임 주제 **
+> 기간 : 25. 10. 12 ~ 25. 11. 13.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Introduce
+
+### Insight
+
+
+
+### 1. 
+
+### 2. 
+
+### 3. 
+
+### Team Member
+
+
+### Tech Stacks
+
+### 폴더 구조
+
+```                         
+    필요?           
+```
+
+
